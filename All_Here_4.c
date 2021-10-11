@@ -68,7 +68,7 @@ void f1() {
 		else
 		{
 			long long int a = a_beg, b = b_beg;
-			// Через вычитание:
+			// By subtraction:
 			while (a !=0 && b != 0)
 			{
 				if (a > b)
@@ -81,7 +81,7 @@ void f1() {
 				}
 			}
 			printf("Наибольший общий делитель чисел %lld и %lld - число %lld (case_2).\n", a_beg, b_beg, a+b);
-			// Через остаток от деления:
+			// By modulo:
 			while (a != 0 && b != 0)
 			{
 				if (a > b && b != 0)
