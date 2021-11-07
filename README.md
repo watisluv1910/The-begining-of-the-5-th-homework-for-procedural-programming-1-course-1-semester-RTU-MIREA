@@ -1,2 +1,2 @@
-# 4
-This is the 4(5)th homework for procedural programming 1 course 1 semester RTU MIREA
+# 5 begining
+This is the begining of the 5th homework for procedural programming 1 course 1 semester RTU MIREA
